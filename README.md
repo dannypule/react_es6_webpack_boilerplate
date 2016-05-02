@@ -3,7 +3,7 @@ A boilerplate for React ES6 Webpack and Babel. Early version and is being improv
 ## GETTING STARTED
 1) Clone this repo and create a new directory called 'react-boilerplate' by running this code:
 ```
-git clone https://github.com/dannypule/react-es6-webpack-babel-boilerplate.git react-boilerplate
+git clone https://github.com/dannypule/react_es6_webpack_boilerplate.git react-boilerplate
 ```
 
 2) cd into project directory:
